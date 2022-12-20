@@ -14,7 +14,7 @@ Copy the file `.env` file and fill with your KlikBCA credential.
 ## Run
 To Get the current balance
 ```
-node klikbca.js
+node balance.js
 ```
 
 To Get the transfer list
